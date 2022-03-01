@@ -4,9 +4,9 @@ I'm a **french** developer :fr: !
 I'm student at 42, in Paris since 2019.
 
 I mostly use NodeJS and Ruby on Rails. But I know C, Python, Java, PHP, SQL too.. And more of them
-
-![thzeribi's stats](https://badge42.herokuapp.com/api/stats/thzeribi)
-
+<!--
+- ![thzeribi's stats](https://badge42.herokuapp.com/api/stats/thzeribi)
+-->
 #### 🔭 Projects
 - Since January 2021, I am the treasurer of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
 - I'm a volunteer Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
