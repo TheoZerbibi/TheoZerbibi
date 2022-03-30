@@ -5,8 +5,6 @@ I'm student at 42, in Paris since 2019.
 
 I mostly use NodeJS and Ruby on Rails. But I know C, Python, Java, PHP, SQL too.. And more of them
 
-[![thzeribi's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1ddp55e003509ld7r8ci33a?cursusId=21)](https://github.com/JaeSeoKim/badge42)
-
 #### 🔭 Projects
 - Since January 2021, I am the treasurer of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
 - I'm a volunteer Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
@@ -23,6 +21,7 @@ I mostly use NodeJS and Ruby on Rails. But I know C, Python, Java, PHP, SQL too.
 
 # 
 
+[![thzeribi's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1ddp55e003509ld7r8ci33a?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 [![thzeribi's github stats](https://github-readme-stats.vercel.app/api?username=TheoZerbibi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TheoZerbibi/)
 [![thzeribi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoZerbibi&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TheoZerbibi/)
 
