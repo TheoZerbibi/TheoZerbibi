@@ -21,7 +21,7 @@ I mostly use NodeJS and Ruby on Rails. But I know C, Python, Java, PHP, SQL too.
 
 # 
 
-[![thzeribi's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1ddp55e003509ld7r8ci33a?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![thzeribi's 42 stats](https://badge42.vercel.app/api/v2/cl1ddp55e003509ld7r8ci33a/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 [![thzeribi's github stats](https://github-readme-stats.vercel.app/api?username=TheoZerbibi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TheoZerbibi/)
 [![thzeribi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoZerbibi&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TheoZerbibi/)
 
