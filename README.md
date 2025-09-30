@@ -6,7 +6,7 @@ I'm student at 42, in Paris since 2019.
 I mostly use NodeJS, C and C++. But I know Python, Java, PHP, SQL, Ruby, Docker too.. And more of them
 
 #### 🔭 Projects
-- Since 2024 i work at [Invinsensing](https://invisensing.io/) as a C/C++ software engineer.
+- From 2024 to 2025, I worked at [Invinsensing](https://invisensing.io/) as a C/C++ software engineer.
 - Since January 2021, I am the treasurer of a French association called [La Calèche](https://lacaleche.cc), our objectives are to promote the IT and web professions.
 - I'm a volunteer Java Developer for a french association called [Aldostra](https://aldostra.fr), that promote online game such as a French Harry Potter RolePlay server based on Minecraft.
 - I've been a volunteer NodeJS Developer on a Discord RolePlay Server called MiroirDuRised for 2 years.
